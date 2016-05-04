@@ -1,3 +1,6 @@
+*{
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
 .input-group {
   margin: 20px 0px;
 }
@@ -10,4 +13,7 @@ td, th {
 td:first-of-type{
   height: 200px;
   width: 250px;
+}
+.ctrtxt{
+  text-align: center;
 }
